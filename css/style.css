@@ -1,0 +1,19 @@
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.wrapper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.todo-list {
+    list-style-type: none;
+}
+
+.todo-item {
+    margin: 0.5rem;
+}
